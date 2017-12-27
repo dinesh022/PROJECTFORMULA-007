@@ -33,7 +33,7 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/softwares/h2-2017-06-10/h2/bin/h2-1.4.196.jar">
+	<classpathentry exported="true" kind="lib" path="D:/softwares/h2-2017-06-10/h2/bin/h2-1.4.196.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
